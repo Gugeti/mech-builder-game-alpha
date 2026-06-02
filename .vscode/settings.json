@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "RoboGattai.sln",
+    "omnisharp.enableRoslynAnalyzers": true,
+    "omnisharp.enableEditorConfigSupport": true,
+    "godotTools.editorPath": "D:/Godot/Godot_v4.6.1-stable_win64.exe"
+}
